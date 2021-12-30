@@ -1,0 +1,20 @@
+p{
+    text-align: center;
+    font-size: 70px;
+    margin-top: 30px;
+    font-weight: bold;
+    color: green;
+}
+
+#wish{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+img{
+    width: 80%;
+    height: 600px;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+ 
